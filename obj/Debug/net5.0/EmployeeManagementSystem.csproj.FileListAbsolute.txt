@@ -1,0 +1,43 @@
+C:\mydev\Employee Management System\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\mydev\Employee Management System\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\mydev\Employee Management System\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\mydev\Employee Management System\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\mydev\Employee Management System\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\mydev\Employee Management System\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\mydev\Employee Management System\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\appsettings.json
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\EmployeeManagementSystem.exe
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\EmployeeManagementSystem.deps.json
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\EmployeeManagementSystem.runtimeconfig.json
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\EmployeeManagementSystem.runtimeconfig.dev.json
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\EmployeeManagementSystem.dll
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\ref\EmployeeManagementSystem.dll
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\EmployeeManagementSystem.pdb
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\Humanizer.dll
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\Npgsql.dll
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\mydev\EmployeeManagementSystem\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\staticwebassets\EmployeeManagementSystem.StaticWebAssets.Manifest.cache
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\staticwebassets\EmployeeManagementSystem.StaticWebAssets.xml
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\scopedcss\bundle\EmployeeManagementSystem.styles.css
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.RazorTargetAssemblyInfo.cache
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.csproj.CopyComplete
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.dll
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\ref\EmployeeManagementSystem.dll
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.pdb
+C:\mydev\EmployeeManagementSystem\obj\Debug\net5.0\EmployeeManagementSystem.genruntimeconfig.cache
